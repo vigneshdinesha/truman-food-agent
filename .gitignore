@@ -14,3 +14,6 @@ venv/
 
 # os
 .DS_Store
+
+# wikipedia enrichment cache
+data/.wiki_cache.json
