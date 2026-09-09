@@ -174,9 +174,10 @@ Peptidoglycan is the major component of gram-positive bacterial cell wall. (Sour
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E111 — Orange GGN
+- What it is: Orange GGN, also known as alpha-naphthol orange, is an azo dye formerly used as a food dye. It is the disodium salt of 1-(m-sulfophenylazo)-2-naphthol-6-sulfonic acid. In Europe, it was denoted by the E Number E111, but has been forbidden for use in foods since 1 January 1978. It has never been included in the food additives list of the Codex Alimentarius. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E120 — Cochineal
 - Function: colour
@@ -187,27 +188,35 @@ Peptidoglycan is the major component of gram-positive bacterial cell wall. (Sour
 
 ## E1200 — Polydextrose
 - Function: humectant, stabiliser, thickener
+- What it is: Polydextrose is a synthetic polymer of glucose. It is a food ingredient classified as soluble fiber by the US FDA as well as Health Canada, as of April 2013. It is frequently used to increase the dietary fiber content of food, to replace sugar, and to reduce calories and fat content. It is a multi-purpose food ingredient synthesized from dextrose (glucose), plus about 10 percent sorbitol and 1 percent citric acid. Its E number is E1200. The FDA approved it in 1981. 
+It is one-tenth as sweet as sugar. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E1201 — Polyvinylpyrrolidone
 - Function: emulsifier, stabiliser, thickener
+- What it is: Polyvinylpyrrolidone (PVP), also commonly called povidone, is a water-soluble polymer compound made from the monomer N-vinylpyrrolidone. PVP is available in a range of molecular weights and related viscosities, and can be selected according to the desired application properties. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E1202 — Polyvinylpolypyrrolidone
 - Function: stabiliser
+- What it is: Polyvinylpolypyrrolidone (polyvinyl polypyrrolidone, PVPP, crospovidone, crospolividone, or E1202) is a highly cross-linked modification of  polyvinylpyrrolidone (PVP).
+This cross-linked form of PVP is used as a disintegrant (see also excipients) in pharmaceutical tablets. 
+PVPP is insoluble in water, though it still absorbs water and swells very rapidly generating a swelling force. This property makes it useful as a disintegrant in tablets.
+PVPP can be used as a drug, taken as a tablet or suspension to absorb compounds (so-called endotoxins) that cause diarrhea. (Cf. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E1203 — Polyvinyl alcohol
 - Function: thickener
+- What it is: Polyvinyl alcohol (PVOH, PVA, or PVAl) is a water-soluble synthetic polymer. It has the idealized formula [CH2CH(OH)]n. It is used in papermaking, textile warp sizing, as a thickener and emulsion stabilizer in polyvinyl acetate (PVAc) adhesive formulations, in a variety of coatings, and 3D printing. It is colourless (white) and odorless. It is commonly supplied as beads or as solutions in water. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E1204 — Pullulan
 - Function: thickener
@@ -264,10 +273,11 @@ Amaranth is an anionic dye. It can be applied to natural and synthetic fibers, l
 
 ## E124 — Ponceau 4r
 - Function: colour
+- What it is: Ponceau 4R (known by more than 100 synonyms, including as C.I. 16255, cochineal red A, C.I. acid red 18, brilliant scarlet 3R, brilliant scarlet 4R, new coccine,) is a synthetic colourant that may be used as a food colouring. It is denoted by E Number E124. Its chemical name is 1-(4-sulfo-1-napthylazo)-2-napthol-6,8-disulfonic acid, trisodium salt. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2009-11-12).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E125 — Scarlet GN
 - What it is: Scarlet GN, or C.I. Food Red 2, FD&C Red No. 4, or C.I. 14815 is a red azo dye once used as a food dye. As a food additive, it has the E number E125. It is usually used as a disodium salt. (Source: Wikipedia.)
@@ -305,10 +315,10 @@ Allura Red AC was originally created by the Allied Chemical Corporation in 1971.
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E131 — Patent blue v
-- Description: PATENT BLUE V is a dark bluish synthetic triphenylmethane dye used as a food coloring. It is not widely used, but in Europe it can be found in Scotch eggs, certain jelly sweets, blue Curaçao, certain jello varieties -though not in actual Jell-O brand products-, among others.
+- What it is: Patent Blue V, also called Food Blue 5, Sulphan Blue, Acid Blue 3, L-Blau 3, C-Blau 20, Patentblau V, Sky Blue, or C.I. 42051, is a sky blue synthetic triphenylmethane dye used as a food coloring. As a food additive, it has E number E131. It is a sodium or calcium salt of [4-(α-(4-diethylaminophenyl)-5-hydroxy- 2,4-disulfophenylmethylidene)-2,5-cyclohexadien-1-ylidene] diethylammonium hydroxide inner salt. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2013/03/01).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E132 — Indigotine
 - Function: colour
@@ -408,9 +418,10 @@ Dextrins can be produced from starch using enzymes like amylases, as during dige
 
 ## E1413 — Phosphated distarch phosphate
 - Function: emulsifier, stabiliser, thickener
+- What it is: Phosphated distarch phosphate is a variation of distarch phosphate, a chemically modified starch. It can be derived from wheat starch, tapioca starch, potato starch or many other botanical sources of starch.  It is produced by replacing the hydrogen bonds between starch chains by stronger, covalent phosphate bonds that are more permanent. It is manufactured by treating starch with sodium tripolyphosphate (STPP) and sodium trimetaphosphate (STMP), or phosphoryl chloride (POCl3). Phosphorylated cross-linked starches is a category of modified food starches within the U.S. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E1414 — Acetylated distarch phosphate
 - Function: emulsifier, stabiliser, thickener
@@ -642,9 +653,11 @@ For certain uses as a food additive, propylene glycol is considered as GRAS by t
 - Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E1521 — Polyethylene glycol
+- What it is: Polyethylene glycol (PEG; ) is a polyether compound derived from petroleum with many applications, from industrial manufacturing to medicine. PEG is also known as polyethylene oxide (PEO) or polyoxyethylene (POE), depending on its molecular weight. The structure of PEG is commonly expressed as H−(O−CH2−CH2)n−OH.
+PEG is commonly incorporated into hydrogels which present a functional form for further use. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2018/06/22).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E153 — Vegetable carbon
 - What it is: Carbon black (with subtypes acetylene black, channel black, furnace black, lamp black and thermal black) is a material produced by the incomplete combustion of coal tar, vegetable matter, or petroleum products, including fuel oil, fluid catalytic cracking tar, and ethylene cracking in a limited supply of air. Carbon black is a form of paracrystalline carbon that has a high surface-area-to-volume ratio, albeit lower than that of activated carbon. (Source: Wikipedia.)
@@ -733,9 +746,10 @@ The color of annatto comes from various carotenoid pigments, mainly bixin and no
 
 ## E160c — Paprika extract
 - Function: colour
+- What it is: Paprika oleoresin (also known as paprika extract and oleoresin paprika) is an oil-soluble extract from the fruits of Capsicum annuum or Capsicum frutescens, and is primarily used as a colouring and flavouring in food products. It is composed of vegetable oil and capsanthin and capsorubin, the main colouring compounds (among other carotenoids). Commercial products are generally standardized to contain 7% total caretinoids. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2015-12-10).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E160d — Lycopene
 - Function: colour
@@ -868,21 +882,25 @@ Delphinidin, like nearly all other anthocyanidins, is pH-sensitive, i.e. a natur
 
 ## E163d — Pelargonidin
 - Function: colour
+- What it is: Pelargonidin is an anthocyanidin, a type of plant pigment producing a characteristic orange color used in food and industrial dyes. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2013-04-23).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E163e — Peonidin
 - Function: colour
+- What it is: Peonidin is an O-methylated anthocyanidin derived from Cyanidin, and a primary plant pigment. Peonidin gives purplish-red hues to flowers such as the peony, from which it takes its name, and roses. It is also present in some blue flowers, such as the morning glory.
+Like most anthocyanidins, it is pH sensitive, and changes from red to blue as pH rises because anthocyanidins are highly conjugated chromophores. When the pH is changed, the extent of the conjugation (of the double bonds) is altered, which alters the wavelength of light energy absorbed by the molecule. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2013-04-23).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E163f — Petunidin
 - Function: colour
+- What it is: Petunidin (Pt), like Europinidin and Malvidin, is derived from Delphinidin and is an O-methylated anthocyanidin of the 3-hydroxy type. It is a natural organic compound, a dark-red or purple water-soluble pigment found in many red berries including chokeberries (Aronia sp), Saskatoon berries (Amelanchier alnifolia) or different species of grape (for instance Vitis vinifera, or muscadine, Vitis rotundifolia), and also part of the pigments responsible for the petal colors in many flowers. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2013-04-23).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E164 — saffron
 - What it is: Saffron ( SAF-rən, -⁠ron; Persian: زعفران, romanized: zafarān) is a spice derived from the sterile  autumn-blooming flower of Crocus sativus, commonly known as the "saffron crocus". The vivid crimson stigma and styles (in industry jargon: 'threads') are collected and dried for use mainly as a seasoning and colourant in food. Saffron crocus was slowly propagated throughout much of Eurasia and later brought to parts of North Africa, North America, and Oceania.
@@ -991,9 +1009,10 @@ Gold often occurs as the free element (native state), as nuggets or grains, in r
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E182 — Orcein
+- What it is: Orcein, also called archil, orchil, lacmus and C.I. Natural Red 28 - CICN 758600, is any dye extracted from several species of lichen, commonly known as "orchella weeds", found in various parts of the world. A major source is the archil lichen, Roccella tinctoria. Orcinol is extracted from such lichens. It is then converted to orcein by ammonia and air. In traditional dye-making methods, urine was used as the ammonia source. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E200 — Sorbic acid
 - Function: preservative
@@ -1050,10 +1069,12 @@ As a food additive it has E number E209, and is used as a preservative. (Source:
 
 ## E212 — Potassium benzoate
 - Function: preservative
+- What it is: Potassium benzoate (E212), the potassium salt of benzoic acid with the formula C6H5COOK, is a food preservative that inhibits the growth of mold, yeast and some bacteria. It works best in low-pH products, below 4.5, where it exists as benzoic acid. 
+Acidic foods and beverages such as fruit juice (citric acid), sparkling drinks (carbonic acid), soft drinks (phosphoric acid), and pickles (vinegar) may be preserved with potassium benzoate. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2016-03-31).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E213 — Calcium benzoate
 - Function: preservative
@@ -1166,10 +1187,12 @@ Sulfur dioxide is somewhat toxic to humans, although only when inhaled in relati
 - Source: Open Food Facts additives taxonomy, EFSA.
 
 ## E228 — Potassium bisulphite
+- What it is: Potassium bisulfite (or potassium hydrogen sulfite) is a chemical mixture with the approximately correctly mentioned formula chemical formula KHSO3. Potassium bisulfite in fact is not an actual compound, but a mixture of salts that dissolve in water to give solutions composed of potassium ions and bisulfite ions.  It is a white solid with an odor of sulfur dioxide. Attempts to crystallize potassium bisulfite yield potassium metabisulfite, K2S2O5.
+Potassium bisulfite is used as a sterilising agent in the production of alcoholic beverages. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2016-04-14).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E230 — Biphenyl
 - Function: preservative
@@ -1181,9 +1204,10 @@ It has a distinctively pleasant smell. Biphenyl is an aromatic hydrocarbon with 
 
 ## E231 — Orthophenyl phenol
 - Function: preservative
+- What it is: 2-Phenylphenol, or o-phenylphenol, is an organic compound with the formula C6H5−C6H4OH.  It is one of three isomers of monohydroxylated biphenyl.   It is a white solid. It is a biocide used as a preservative with E number E231 and under the trade names Dowicide, Torsite, Fungal, Preventol, Nipacide and many others. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E232 — Sodium orthophenyl phenol
 - Function: preservative
@@ -1313,9 +1337,10 @@ Acetic acid is the second simplest carboxylic acid (after formic acid). (Source:
 
 ## E261 — Potassium acetate
 - Function: preservative
+- What it is: Potassium acetate (also called potassium ethanoate), (CH3COOK) is the potassium salt of acetic acid. It is a hygroscopic solid at room temperature. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E262 — Sodium acetates
 - Function: preservative, sequestrant
@@ -1456,9 +1481,10 @@ As a food additive, it has the E number E 302. It is approved for use as a food 
 - Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E303 — Potassium ascorbate
+- What it is: Potassium ascorbate is a compound with formula KC6H7O6. It is the potassium salt of ascorbic acid (vitamin C) and a mineral ascorbate.  As a food additive, it has E number E303, INS number 303. Although it is not a permitted food additive in the UK, the USA and the EU, it is approved for use in Australia and New Zealand. According to some studies, it has shown a strong antioxidant activity and antitumoral properties. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E304 — Fatty acid esters of ascorbic acid
 - Function: antioxidant
@@ -1544,9 +1570,10 @@ Vitamin E exists in 8 different forms: 4 tocopherols and 4 tocotrienols. Each fo
 - Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E311 — Octyl gallate
+- What it is: Octyl gallate is the ester of 1-octanol and gallic acid.  As a food additive, it is used under the E number E311 as an antioxidant and preservative. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2015-10-01).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E312 — Dodecyl gallate
 - What it is: Dodecyl gallate, or lauryl gallate, is the ester of dodecanol and gallic acid.  As a food additive it is used under the E number E312 as an antioxidant and preservative. (Source: Wikipedia.)
@@ -1733,9 +1760,11 @@ It is highly soluble in water and practically insoluble in ethanol. Monosodium c
 
 ## E332 — Potassium citrates
 - Function: sequestrant, stabiliser
+- What it is: Potassium citrate (also known as tripotassium citrate) is a potassium salt of citric acid with the molecular formula K3C6H5O7. It is a white, hygroscopic crystalline powder. It is odorless with a saline taste. It contains 38.28% potassium by mass. In the monohydrate form, it is highly hygroscopic and deliquescent.
+As a food additive, potassium citrate is used to regulate acidity, and is known as E number E332. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E332 — Monopotassium citrate
 - Function: sequestrant, stabiliser
@@ -1746,9 +1775,10 @@ As a food additive, potassium citrate is used to regulate acidity, and is known 
 
 ## E332 — Tripotassium citrate
 - Function: sequestrant, stabiliser
-- Description: POTASSIUM CITRATE -also known as tripotassium citrate- is a potassium salt of citric acid with the molecular formula K3C6H5O7. As a food additive, potassium citrate is used to regulate acidity. It is also used in many soft drinks as a buffering agent.
+- What it is: Potassium citrate (also known as tripotassium citrate) is a potassium salt of citric acid with the molecular formula K3C6H5O7. It is a white, hygroscopic crystalline powder. It is odorless with a saline taste. It contains 38.28% potassium by mass. In the monohydrate form, it is highly hygroscopic and deliquescent.
+As a food additive, potassium citrate is used to regulate acidity, and is known as E number E332. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E333 — Calcium citrates
 - Function: sequestrant, stabiliser
@@ -1810,10 +1840,11 @@ Because its crystal structure captures a very precise amount of water, it is als
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E336 — Monopotassium tartrate
-- Description: POTASSIUM BITARTRATE, also known as potassium hydrogen tartrate, with formula KC4H5O6, is a byproduct of winemaking.
+- What it is: Potassium bitartrate, also known as potassium hydrogen tartrate, with formula KC4H5O6, is the potassium acid salt of tartaric acid (a carboxylic acid)—specifically, l-( + )-tartaric acid. Especially in cooking, it is also known as cream of tartar. Tartaric acid and potassium naturally occur in grapes; its crude precipitate form tartar or wine stone are byproducts of winemaking found deposited on top of must barrels which can be purified.
+Approved by the U.S. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E336 — Dipotassium tartrate
 - What it is: Potassium tartrate, dipotassium tartrate or argol has formula K2C4H4O6. It is the potassium salt of tartaric acid.  It is often confused with potassium bitartrate, also known as cream of tartar.  As a food additive, it shares the E number E336 with potassium bitartrate. (Source: Wikipedia.)
@@ -1831,10 +1862,12 @@ Because its crystal structure captures a very precise amount of water, it is als
 
 ## E338 — Phosphoric acid
 - Function: antioxidant, sequestrant
+- What it is: Phosphoric acid (orthophosphoric acid, monophosphoric acid or phosphoric(V) acid) is a colorless, odorless phosphorus-containing solid, and inorganic compound with the chemical formula H3PO4. It is commonly encountered as an 85% aqueous solution, which is a colourless, odourless, and non-volatile syrupy liquid. It is a major industrial chemical, being a component of many fertilizers.
+The compound is an acid. Removal of all three H+ ions gives the phosphate ion PO3−4. Removal of one or two protons gives dihydrogen phosphate ion H2PO−4, and the hydrogen phosphate ion HPO2−4, respectively. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2019/06/12).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E339 — Sodium phosphates
 - Function: emulsifier, humectant, preservative, sequestrant, stabiliser, thickener
@@ -2062,9 +2095,11 @@ As a food additive, it has the E number E356 as is used as a buffering agent and
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E357 — Potassium adipate
+- What it is: Potassium adipate is a compound with formula K2C6H8O4. It is a potassium salt and common source ingredient of adipic acid.
+It has E number E357. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E359 — ammonium adipate
 - What it is: Ammonium adipate is a compound with formula (NH4)2(C4H8(COO)2). It is the ammonium salt of adipic acid.  It is a food additive used as an acidity regulator and has the E number E359. (Source: Wikipedia.)
@@ -2086,9 +2121,10 @@ Succinate is generated in mitochondria via the tricarboxylic acid (TCA) cycle. (
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E366 — Potassium fumarate
+- What it is: Potassium fumarate is a compound with formula K2C4H2O4. It is the potassium salt of fumaric acid. It has E number "E366". (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E367 — Calcium fumarate
 - No EFSA re-evaluation date on record in the taxonomy.
@@ -2158,9 +2194,11 @@ In its crystal structure each moiety of citric acid has lost four protons. (Sour
 - Source: Open Food Facts additives taxonomy.
 
 ## E391 — Phytic acid
+- What it is: Phytic acid is a six-fold dihydrogenphosphate ester of inositol (specifically, of the myo isomer), also called inositol hexaphosphate, inositol hexakisphosphate (IP6) or inositol polyphosphate. At physiological pH, the phosphates are partially ionized, resulting in the phytate anion.
+The (myo) phytate anion is a colorless species that has significant nutritional role as the principal storage form of phosphorus in many plant tissues, especially bran and seeds. It is also present in many legumes, cereals, and grains. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E392 — Extracts of rosemary
 - What it is: Carnosic acid is a natural benzenediol abietane diterpene found in rosemary (Salvia rosmarinus) and common sage (Salvia officinalis). Dried leaves of rosemary and sage contain 1.5 to 2.5% carnosic acid.
@@ -2194,9 +2232,11 @@ It is a significant component of the biofilms produced by the bacterium Pseudomo
 
 ## E402 — Potassium alginate
 - Function: carrier, emulsifier, humectant, sequestrant, stabiliser, thickener
+- What it is: Alginic acid, also called algin, is a naturally occurring, edible polysaccharide found in brown algae.  It is hydrophilic and forms a viscous gum when hydrated. When the alginic acid binds with sodium and calcium ions, the resulting salts are known as alginates. Its colour ranges from white to yellowish-brown. It is sold in filamentous, granular, or powdered forms. 
+It is a significant component of the biofilms produced by the bacterium Pseudomonas aeruginosa, a major pathogen found in the lungs of some people who have cystic fibrosis. The biofilm and P. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2017/11/10).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E403 — Ammonium alginate
 - Function: carrier, emulsifier, humectant, sequestrant, stabiliser, thickener
@@ -2433,17 +2473,19 @@ Amino acids comprise peptides as residues. Peptides are usually linear polymers 
 
 ## E432 — Polyoxyethylene sorbitan monolaurate
 - Function: emulsifier, stabiliser
+- What it is: Polysorbate 20 (common commercial brand names include Kolliphor PS 20,  Scattics, Alkest TW 20, Tween 20, and Kotilen-20) is a polysorbate-type nonionic surfactant formed by the ethoxylation of sorbitan monolaurate. Its stability and relative nontoxicity allows it to be used as a detergent and emulsifier in a number of domestic, scientific, and pharmacological applications. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2015-07-17).
 - Vegan: maybe.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E433 — Polyoxyethylene sorbitan monooleate
 - Function: emulsifier, stabiliser
+- What it is: Polysorbate 80 is a nonionic surfactant and emulsifier often used in pharmaceuticals, foods, and cosmetics. This synthetic compound is a viscous, water-soluble yellow liquid. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2015-07-17).
 - Vegan: maybe.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E434 — Polyoxyethylene sorbitan monopalmitate
 - Function: emulsifier
@@ -2468,41 +2510,48 @@ Amino acids comprise peptides as residues. Peptides are usually linear polymers 
 
 ## E440 — Pectins
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440a — Pectin
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440a — Sodium pectate
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440a — Potassium pectate
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440a — Ammonium Pectate
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440b — pectin amide
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440 — non-amidated pectines
 - Function: emulsifier, stabiliser, thickener
+- What it is: Pectin (Ancient Greek: πηκτικός pēktikós: 'congealed' and 'curdled') is a heteropolysaccharide, a structural polymer contained in the cell walls and middle lamellae of terrestrial plants. The principal chemical component of pectin is galacturonic acid (a sugar acid derived from galactose).  Commercially produced pectin is a white-to-light-brown powder, produced from citrus fruits for use as an edible gelling agent, especially in jams and jellies, dessert fillings, medications, and sweets. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E440 — Amidated pectin
 - Function: emulsifier, stabiliser, thickener
@@ -2625,10 +2674,11 @@ Amino acids comprise peptides as residues. Peptides are usually linear polymers 
 
 ## E452 — Polyphosphates
 - Function: emulsifier, humectant, sequestrant, stabiliser, thickener
+- What it is: A polyphosphate is a salt or ester of polymeric oxyanions formed from tetrahedral PO4 (phosphate) structural units linked together by sharing oxygen atoms. Polyphosphates can adopt linear or a cyclic (also called, ring) structures. In biology, the polyphosphate esters ADP and ATP are involved in energy storage. A variety of polyphosphates find application in mineral sequestration in municipal waters, generally being present at 1 to 5 ppm. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - EFSA safety evaluation on record (2019/06/12).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E452 — Sodium polyphosphate
 - Function: emulsifier, humectant, sequestrant, stabiliser, thickener
@@ -2888,9 +2938,10 @@ E468 is the E number of crosslinked sodium carboxymethyl cellulose, used in food
 
 ## E476 — Polyglycerol polyricinoleate
 - Function: emulsifier
+- What it is: Polyglycerol polyricinoleate (PGPR), E476, is an emulsifier made from glycerol and fatty acids (usually from castor bean, but also from soybean oil). In chocolate, compound chocolate and similar coatings, PGPR is mainly used with another substance like lecithin to reduce viscosity. It is used at low levels (below 0.5%), and works by decreasing the friction between the solid particles (e.g. cacao, sugar, milk) in molten chocolate, reducing the yield stress so that it flows more easily, approaching the behaviour of a Newtonian fluid. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E477 — Propane-1‚2-diol esters of fatty acids
 - Function: emulsifier
@@ -3046,19 +3097,22 @@ Sodium bicarbonate is a white solid that is crystalline but often appears as a f
 
 ## E501 — Potassium carbonates
 - Function: stabiliser
+- What it is: Potassium carbonate is the inorganic compound with the formula K2CO3. It is a white salt, which is soluble in water and forms a strongly alkaline solution. It is deliquescent, often appearing as a damp or wet solid. Potassium carbonate is used in production of dutch process cocoa powder, production of soap and production of glass. Commonly, it can be found as the result of leakage of alkaline batteries. Potassium carbonate is a potassium salt of carbonic acid. This salt consists of potassium cations K+ and carbonate anions CO2−3, and is therefore an alkali metal carbonate. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E501 — Potassium carbonate
 - Function: stabiliser
+- What it is: Potassium carbonate is the inorganic compound with the formula K2CO3. It is a white salt, which is soluble in water and forms a strongly alkaline solution. It is deliquescent, often appearing as a damp or wet solid. Potassium carbonate is used in production of dutch process cocoa powder, production of soap and production of glass. Commonly, it can be found as the result of leakage of alkaline batteries. Potassium carbonate is a potassium salt of carbonic acid. This salt consists of potassium cations K+ and carbonate anions CO2−3, and is therefore an alkali metal carbonate. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E501 — Potassium hydrogen carbonate
 - Function: stabiliser
+- What it is: Potassium bicarbonate (IUPAC name: potassium hydrogencarbonate, also known as potassium acid carbonate) is the inorganic compound with the chemical formula KHCO3. It is a white solid. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E502 — Carbonates
 - No EFSA re-evaluation date on record in the taxonomy.
@@ -3114,9 +3168,10 @@ Sodium bicarbonate is a white solid that is crystalline but often appears as a f
 
 ## E508 — Potassium chloride
 - Function: stabiliser, thickener, preservative
+- What it is: Potassium chloride (KCl, or potassium salt) is a metal halide salt composed of potassium and chlorine. It is odorless and has a white or colorless vitreous crystal appearance. The solid dissolves readily in water, and its solutions have a salt-like taste. Potassium chloride can be obtained from ancient dried lake deposits. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2019/07/06).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E509 — Calcium chloride
 - Function: stabiliser, thickener, coagulant
@@ -3288,10 +3343,11 @@ Along with sodium hydroxide (NaOH), KOH is a prototypical strong base. It has ma
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E536 — Potassium ferrocyanide
+- What it is: Potassium ferrocyanide is the inorganic compound with formula K4[Fe(CN)6]·3H2O. It is the potassium salt of the coordination complex [Fe(CN)6]4−. This salt forms lemon-yellow monoclinic crystals. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E537 — ferrous hexacyanomanganate
 - No EFSA re-evaluation date on record in the taxonomy.
@@ -3424,10 +3480,12 @@ The molecular formula is typically written as MgO:XSiO2, where X denotes the ave
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E555 — Potassium aluminium silicate
+- What it is: Microcline  (KAlSi3O8) is an important igneous rock-forming tectosilicate mineral. It is a potassium-rich alkali feldspar.  It is common in granite and pegmatites. Microcline forms during slow cooling of orthoclase. Sanidine is a polymorph of alkali feldspar stable at yet higher temperature. Microcline has cross-hatch twinning that forms as a result of the transformation of monoclinic orthoclase into triclinic microcline.
+The chemical compound name is potassium aluminium silicate, and it is known as E number reference E555. (Source: Wikipedia.)
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E556 — Calcium aluminium silicate
 - Flagged by ANSES (French food-safety agency) as an **additive of interest**.
@@ -3514,9 +3572,12 @@ C6H10O6 +  H2O   →   C6H12O7 (Source: Wikipedia.)
 
 ## E577 — Potassium gluconate
 - Function: sequestrant
+- What it is: Potassium gluconate is the potassium salt of the conjugate base of gluconic acid. It is also referred to as 2,3,4,5,6-pentahydroxycaproic acid potassium salt, D-gluconic acid potassium salt, or potassium D-gluconate.
+It contains 16.69%  elemental potassium by mass. Thus 5.99 g  of potassium gluconate contains 1 g of potassium.
+It has a density of 1.73 g/cm3. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E578 — calcium gluconate
 - Function: sequestrant
@@ -3725,20 +3786,26 @@ Tylosin is used in veterinary medicine to treat bacterial infections in a wide r
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E900 — Dimethylpolysiloxane and Methylphenylpolysiloxane
+- What it is: Polydimethylsiloxane (PDMS), also known as dimethylpolysiloxane or dimethicone, is a silicone polymer with a wide variety of uses, from cosmetics to industrial lubrication and passive daytime radiative cooling.
+PDMS is particularly known for its unusual rheological (or flow) properties. It is optically clear and, in general, inert, non-toxic, and non-flammable. It is one of several types of silicone oil (polymerized siloxane). (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E900a — Dimethyl polysiloxane
 - Function: emulsifier
+- What it is: Polydimethylsiloxane (PDMS), also known as dimethylpolysiloxane or dimethicone, is a silicone polymer with a wide variety of uses, from cosmetics to industrial lubrication and passive daytime radiative cooling.
+PDMS is particularly known for its unusual rheological (or flow) properties. It is optically clear and, in general, inert, non-toxic, and non-flammable. It is one of several types of silicone oil (polymerized siloxane). (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E900b — Methylphenylpolysiloxane
+- What it is: Polydimethylsiloxane (PDMS), also known as dimethylpolysiloxane or dimethicone, is a silicone polymer with a wide variety of uses, from cosmetics to industrial lubrication and passive daytime radiative cooling.
+PDMS is particularly known for its unusual rheological (or flow) properties. It is optically clear and, in general, inert, non-toxic, and non-flammable. It is one of several types of silicone oil (polymerized siloxane). (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E901 — white and yellow beeswax
 - Function: carrier, emulsifier, stabiliser, thickener
@@ -3780,9 +3847,11 @@ Most often, mineral oil is today a liquid obtained from refining crude oil to ma
 - Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E905b — petroleum jelly
+- What it is: Petroleum jelly, petrolatum (), white petrolatum, soft paraffin, or multi-hydrocarbon, CAS number 8009-03-8, is a semi-solid mixture of hydrocarbons (with carbon numbers mainly higher than 25), commonly promoted as a topical ointment for its healing properties. Vaseline has been the dominant brand of petroleum jelly sold since 1870.
+After petroleum jelly became a medicine cabinet staple, consumers began to use it for cosmetic purposes and for many ailments including toenail fungus, genital rashes (non-STI), nosebleeds, diaper rash, and common colds. (Source: Wikipedia.)
 - EFSA safety evaluation on record (2013-04-04).
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy, EFSA.
+- Source: Open Food Facts additives taxonomy, EFSA, Wikipedia.
 
 ## E905c — Petroleum wax
 - What it is: Microcrystalline waxes are a type of wax produced by de-oiling petrolatum, as part of the petroleum refining process. In contrast to the more familiar paraffin wax which contains mostly unbranched alkanes, microcrystalline wax contains a higher percentage of isoparaffinic (branched) hydrocarbons and naphthenic hydrocarbons. It is characterized by the fineness of its crystals in contrast to the larger crystal of paraffin wax. It consists of high molecular weight saturated aliphatic hydrocarbons. (Source: Wikipedia.)
@@ -3934,19 +4003,22 @@ Some wax esters are saturated, and others contain unsaturated centers. Saturated
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E924 — Potassium bromate
+- What it is: Potassium bromate (KBrO3) is the inorganic compound with the formula KBrO3. This colorless salt is a common source of bromate. It is a strong oxidizing agent. The chemical is sometimes added to improve flour, but due to potential cancer risk, is banned in many countries. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E924a — Potassium bromate
+- What it is: Potassium bromate (KBrO3) is the inorganic compound with the formula KBrO3. This colorless salt is a common source of bromate. It is a strong oxidizing agent. The chemical is sometimes added to improve flour, but due to potential cancer risk, is banned in many countries. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E924b — Calcium bromate
+- What it is: Potassium bromate (KBrO3) is the inorganic compound with the formula KBrO3. This colorless salt is a common source of bromate. It is a strong oxidizing agent. The chemical is sometimes added to improve flour, but due to potential cancer risk, is banned in many countries. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E925 — Chlorine
 - No EFSA re-evaluation date on record in the taxonomy.
@@ -4062,14 +4134,16 @@ Nitrous oxide has significant medical uses, especially in surgery and dentistry,
 - Source: Open Food Facts additives taxonomy.
 
 ## E946 — octafluorocyclobutane
+- What it is: Octafluorocyclobutane, or perfluorocyclobutane, C4F8, is an organofluorine compound which enjoys several niche applications. Octafluorocyclobutane is a colourless gas and shipped as a liquefied gas. It is the perfluorinated analogue of cyclobutane whereby all C–H bonds are replaced with C–F bonds. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E948 — Oxygen
+- What it is: Oxygen is a chemical element; it has the symbol O and its atomic number is 8. It is a member of the chalcogen group in the periodic table. It is highly reactive, a nonmetal, and a potent oxidizing agent that readily forms oxides with most elements as well as with other compounds. Oxygen is the most abundant element in Earth's crust, making up almost half of the Earth's crust in the form of various oxides such as water, carbon dioxide, iron oxides, and silicates. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E949 — Hydrogen
 - What it is: Hydrogen is a chemical element; it has the symbol H and atomic number 1. It is the lightest and most abundant chemical element in the universe, constituting about 75% of all normal matter. Under standard conditions, hydrogen is a gas of diatomic molecules with the formula H2, called dihydrogen, or sometimes hydrogen gas, molecular hydrogen, or simply hydrogen. Dihydrogen is colorless, odorless, non-toxic, and highly combustible. (Source: Wikipedia.)
@@ -4209,9 +4283,10 @@ It is particularly effective in masking the bitter tastes of other compounds fou
 
 ## E964 — Polyglycitol syrup
 - Function: sweetener
+- What it is: Polyglycitol syrup has uses as a food additive, and is also known as E964. It is a mixture of maltitol and sorbitol, two sugar alcohols. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E965 — maltitol
 - Function: emulsifier, humectant, stabiliser, sweetener, thickener
@@ -4365,8 +4440,9 @@ Nucleic acids are chemical compounds that are found in nature. They carry inform
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## Organic acids
+- What it is: An organic acid is an organic compound with acidic properties. The most common organic acids are the carboxylic acids, whose acidity is associated with their carboxyl group –COOH. Sulfonic acids, containing the group –SO2OH, are relatively stronger acids. Alcohols, with –OH, can act as acids but they are usually very weak. The relative stability of the conjugate base of the acid determines its acidity. Other groups can also confer acidity, usually weakly: the thiol group –SH, the enol group, and the phenol group. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## potassium iodide
 - What it is: Potassium iodide (KI) is a chemical compound, medication, and dietary supplement. It is a medication used for treating hyperthyroidism, in radiation emergencies, and for protecting the thyroid gland when certain types of radiopharmaceuticals are used. It is also used for treating skin sporotrichosis and phycomycosis. It is a supplement used by people with low dietary intake of iodine. It is administered orally.
@@ -4376,6 +4452,8 @@ Common side effects include vomiting, diarrhea, abdominal pain, rash, and swelli
 - Source: Open Food Facts additives taxonomy, Wikipedia.
 
 ## E126 — Ponceau 6R
+- What it is: Ponceau 6R, or Crystal ponceau 6R, Crystal scarlet, Brilliant crystal scarlet 6R, Acid Red 44, or C.I. 16250, is a red azo dye. It is soluble in water and slightly soluble in ethanol. It was used as a food dye, formerly having E number E126. It is also used in histology, for staining fibrin with the MSB Trichrome stain. It usually comes as disodium salt.
+Amaranth is a closely related azo dye, also usable in trichrome staining. (Source: Wikipedia.)
 - No EFSA re-evaluation date on record in the taxonomy.
 - Vegan: yes.
-- Source: Open Food Facts additives taxonomy.
+- Source: Open Food Facts additives taxonomy, Wikipedia.
