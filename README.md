@@ -5,6 +5,8 @@
 > in it and what those ingredients mean for you, grounded in real sources.
 > No hype, no fear-mongering, no guessing: if the evidence isn't there, it says so.
 
+**🔴 Live demo: https://truman-food-agent.fly.dev/** (scales to zero when idle — first request after a pause takes a few seconds to wake).
+
 *(Agent name is a one-line setting in `src/food_agent/config.py` — swap it anytime.)*
 
 ---
