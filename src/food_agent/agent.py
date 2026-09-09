@@ -74,6 +74,58 @@ DISPATCH = {
     "lookup_chemical": lambda a: pubchem.lookup_chemical(a["name"]),
 }
 
+# ── Structured verdict (for the UI) ──────────────────────────────────────────
+# A second, grounded pass that distils the analysis the agent JUST produced into a
+# strict JSON verdict: a 0–100 cleanliness score, a tier, a conversational one-liner,
+# and per-ingredient flags. It introduces NO new facts — it only structures what the
+# tool-grounded analysis already established (so honesty/grounding is preserved).
+VERDICT_SYSTEM = f"""You convert {AGENT_NAME}'s food analysis into a strict JSON verdict.
+Use ONLY facts already stated in the analysis. Do NOT invent ingredients, effects, or sources.
+
+Score the food 0–100 on how "clean" it is:
+- 100 = whole, recognizable ingredients; no additives of concern.
+- 0   = many additives that agencies flag or restrict.
+Higher = cleaner. Map the score to a tier by these bands (be consistent):
+  85–100 "Fully Clean" · 65–84 "Mostly Clean" · 45–64 "Some Concerns" ·
+  25–44 "Questionable" · 0–24 "Highly Questionable".
+
+Return ONLY this JSON object:
+{{
+  "food_name": "short display name of the food",
+  "score": <int 0-100>,
+  "tier": "<one of the five tier labels above>",
+  "summary": "1–2 sentences, warm and direct — the honest bottom line a friend would give you. No hedging, no markdown.",
+  "ingredients": [
+    {{"name": "ingredient/additive", "level": "clean|caution|concern", "note": "<=8 words, plain English"}}
+  ],
+  "sources": ["source names actually cited in the analysis"]
+}}
+List the most notable ingredients first (concerns before clean ones), at most 8.
+If the analysis abstained (no reliable data), set score 50, tier "Some Concerns",
+and say so plainly in summary with an empty ingredients list."""
+
+
+def _verdict(client, answer: str | None, trace: dict) -> dict | None:
+    """Grounded second pass -> structured JSON verdict for the UI. Never throws."""
+    if not answer or answer.startswith("(stopped"):
+        return None
+    try:
+        resp = client.chat.completions.create(
+            model=CHAT_MODEL, temperature=0,
+            response_format={"type": "json_object"},
+            messages=[{"role": "system", "content": VERDICT_SYSTEM},
+                      {"role": "user", "content": f"Analysis:\n\n{answer}\n\nReturn the JSON verdict now."}])
+        u = resp.usage
+        trace["tokens_in"] += u.prompt_tokens
+        trace["tokens_out"] += u.completion_tokens
+        v = json.loads(resp.choices[0].message.content)
+        v["score"] = max(0, min(100, int(round(float(v.get("score", 50))))))
+        if not isinstance(v.get("ingredients"), list):
+            v["ingredients"] = []
+        return v
+    except Exception:
+        return None
+
 
 def analyze(user_input: str, max_steps: int = 6, verbose: bool = True) -> dict:
     require_openai_key()
@@ -108,6 +160,7 @@ def analyze(user_input: str, max_steps: int = 6, verbose: bool = True) -> dict:
     else:
         trace["answer"] = "(stopped: hit max reasoning steps)"
 
+    trace["verdict"] = _verdict(client, trace.get("answer"), trace)
     trace["cost_usd"] = round(trace["tokens_in"] * _PRICE_IN + trace["tokens_out"] * _PRICE_OUT, 6)
     TRACES_DIR.mkdir(parents=True, exist_ok=True)
     (TRACES_DIR / f"{trace['id']}.json").write_text(json.dumps(trace, indent=2))

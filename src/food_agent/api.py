@@ -46,8 +46,9 @@ class FoodQuery(BaseModel):
 
 
 def _summary(trace: dict) -> dict:
-    return {"answer": trace["answer"], "tool_calls": len(trace["steps"]),
-            "cost_usd": trace.get("cost_usd"), "trace_id": trace["id"]}
+    return {"answer": trace["answer"], "verdict": trace.get("verdict"),
+            "tool_calls": len(trace["steps"]), "cost_usd": trace.get("cost_usd"),
+            "trace_id": trace["id"]}
 
 
 @app.get("/health")
@@ -77,29 +78,11 @@ async def analyze_label(file: UploadFile = File(...)):
     return {"label": label, **_summary(trace)}
 
 
+_STATIC_DIR = Path(__file__).resolve().parent / "static"
+_INDEX_HTML = (_STATIC_DIR / "index.html").read_text(encoding="utf-8") \
+    .replace("{{AGENT_NAME}}", AGENT_NAME).replace("{{AGENT_TAGLINE}}", AGENT_TAGLINE)
+
+
 @app.get("/", response_class=HTMLResponse)
 def home():
-    return f"""<!doctype html><html><head><meta charset=utf-8>
-<title>{AGENT_NAME}</title><style>
-body{{font-family:-apple-system,Segoe UI,Arial,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;color:#1a1a1a}}
-h1{{margin-bottom:2px}} .sub{{color:#666;margin-top:0}}
-input,button{{font-size:15px;padding:8px 10px}} button{{cursor:pointer;background:#137a3f;color:#fff;border:0;border-radius:6px}}
-#out{{white-space:pre-wrap;background:#f6f8f6;border-left:3px solid #137a3f;padding:12px;margin-top:16px;border-radius:4px}}
-.row{{margin:14px 0}}</style></head><body>
-<h1>{AGENT_NAME}</h1><p class=sub>{AGENT_TAGLINE}</p>
-<div class=row><input id=food size=34 placeholder="e.g. McDonald's Big Mac">
-<button onclick=byName()>Analyze food</button></div>
-<div class=row>…or a label photo: <input type=file id=img accept=image/*>
-<button onclick=byLabel()>Read label</button></div>
-<div id=out>Ask about any food, or upload a label.</div>
-<script>
-const out=document.getElementById('out');
-async function byName(){{ out.textContent='Analyzing…';
- const r=await fetch('/analyze',{{method:'POST',headers:{{'Content-Type':'application/json'}},
-  body:JSON.stringify({{food:document.getElementById('food').value}})}});
- const j=await r.json(); out.textContent=j.answer+'\\n\\n['+j.tool_calls+' tool calls · $'+j.cost_usd+']'; }}
-async function byLabel(){{ const f=document.getElementById('img').files[0]; if(!f)return;
- out.textContent='Reading label…'; const fd=new FormData(); fd.append('file',f);
- const r=await fetch('/analyze-label',{{method:'POST',body:fd}}); const j=await r.json();
- out.textContent=(j.answer||j.error||'')+(j.tool_calls?'\\n\\n['+j.tool_calls+' tool calls · $'+j.cost_usd+']':''); }}
-</script></body></html>"""
+    return _INDEX_HTML
