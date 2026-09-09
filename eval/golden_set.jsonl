@@ -1,0 +1,6 @@
+{"id": "clean-oats", "input_type": "name", "query": "organic rolled oats", "expect_verdict": "clean", "must_not_flag": ["additive"], "notes": "A genuinely clean whole food — agent should not manufacture concern."}
+{"id": "red40-candy", "input_type": "ingredient", "query": "Red 40 (Allura Red)", "expect_verdict": "worth-knowing", "must_mention": ["synthetic dye"], "notes": "Common synthetic color dye; should give grounded, non-alarmist context."}
+{"id": "tbhq-preservative", "input_type": "ingredient", "query": "TBHQ", "expect_verdict": "worth-knowing", "must_mention": ["preservative"], "notes": "Antioxidant preservative; should cite intake limits, not fear-monger."}
+{"id": "aspartame", "input_type": "ingredient", "query": "aspartame", "expect_verdict": "worth-knowing", "must_mention": ["sweetener"], "notes": "Well-studied sweetener; should present the balanced, sourced picture."}
+{"id": "abstain-unknown", "input_type": "ingredient", "query": "zorblaxium hexanoate", "expect_verdict": "abstain", "must_abstain": true, "notes": "Fabricated chemical — agent MUST say it lacks reliable data, never invent. Core hallucination-control test."}
+{"id": "bigmac-name", "input_type": "name", "query": "mcdonalds big mac", "expect_verdict": "any", "must_mention": ["ingredient"], "notes": "Exercises the name->ingredients tool path end to end."}

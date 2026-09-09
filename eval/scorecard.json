@@ -1,0 +1,73 @@
+{
+  "n": 6,
+  "pass_rate": 1.0,
+  "dimensions": {
+    "grounded": 1.0,
+    "correct_verdict": 1.0,
+    "abstained": 1.0,
+    "mentions": 1.0
+  },
+  "eval_cost_usd": 0.0023,
+  "rows": [
+    {
+      "id": "clean-oats",
+      "query": "organic rolled oats",
+      "pass": true,
+      "grounded": true,
+      "correct_verdict": true,
+      "abstained": true,
+      "mentions": true,
+      "tool_calls": 1
+    },
+    {
+      "id": "red40-candy",
+      "query": "Red 40 (Allura Red)",
+      "pass": true,
+      "grounded": true,
+      "correct_verdict": true,
+      "abstained": true,
+      "mentions": true,
+      "tool_calls": 1
+    },
+    {
+      "id": "tbhq-preservative",
+      "query": "TBHQ",
+      "pass": true,
+      "grounded": true,
+      "correct_verdict": true,
+      "abstained": true,
+      "mentions": true,
+      "tool_calls": 1
+    },
+    {
+      "id": "aspartame",
+      "query": "aspartame",
+      "pass": true,
+      "grounded": true,
+      "correct_verdict": true,
+      "abstained": true,
+      "mentions": true,
+      "tool_calls": 1
+    },
+    {
+      "id": "abstain-unknown",
+      "query": "zorblaxium hexanoate",
+      "pass": true,
+      "grounded": true,
+      "correct_verdict": true,
+      "abstained": true,
+      "mentions": true,
+      "tool_calls": 1
+    },
+    {
+      "id": "bigmac-name",
+      "query": "mcdonalds big mac",
+      "pass": true,
+      "grounded": true,
+      "correct_verdict": true,
+      "abstained": true,
+      "mentions": true,
+      "tool_calls": 3
+    }
+  ]
+}

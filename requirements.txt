@@ -1,0 +1,9 @@
+openai>=1.40
+requests>=2.31
+numpy>=1.26
+python-dotenv>=1.0
+tiktoken>=0.7
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6

@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# generated artifacts
+data/index.npz
+traces/*.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os
+.DS_Store
