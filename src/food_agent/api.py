@@ -22,6 +22,24 @@ from .vision import read_label
 
 app = FastAPI(title=f"{AGENT_NAME} — {AGENT_TAGLINE}")
 
+# Cost/abuse guard for the public demo: cap total analyses per day so a shared
+# API key can't be run up. In-memory (resets on restart) — fine for a portfolio demo.
+import datetime
+_DEMO_DAILY_CAP = 300
+_usage = {"day": "", "count": 0}
+
+
+def _demo_ok() -> bool:
+    today = datetime.date.today().isoformat()
+    if _usage["day"] != today:
+        _usage.update(day=today, count=0)
+    _usage["count"] += 1
+    return _usage["count"] <= _DEMO_DAILY_CAP
+
+
+_CAP_MSG = ("This is a portfolio demo with a small daily budget, and it's been hit for today. "
+            "Try again tomorrow, or run it yourself from the GitHub repo.")
+
 
 class FoodQuery(BaseModel):
     food: str
@@ -39,11 +57,15 @@ def health():
 
 @app.post("/analyze")
 def analyze_food(q: FoodQuery):
+    if not _demo_ok():
+        return JSONResponse({"answer": _CAP_MSG}, status_code=429)
     return _summary(analyze(q.food, verbose=False))
 
 
 @app.post("/analyze-label")
 async def analyze_label(file: UploadFile = File(...)):
+    if not _demo_ok():
+        return JSONResponse({"error": _CAP_MSG}, status_code=429)
     suffix = Path(file.filename or "label.jpg").suffix or ".jpg"
     with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as tmp:
         tmp.write(await file.read())

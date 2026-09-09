@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+traces/
+data/.wiki_cache.json
+.DS_Store
+README.md
+eval/scorecard.json
